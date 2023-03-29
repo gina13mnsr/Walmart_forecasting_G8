@@ -1,2 +1,3 @@
 # Walmart_forecasting_G8
- In this sales forecasting project, we will use the historical sales data of 45 Walmart stores based on store location, department, and week.
+ In this sales forecasting project, we will use the historical sales data of 45 Walmart stores based on store location, department, and week to Predict the sales for each department.
+ Every Departmental store chain like Walmart wants to predict the store sales in the future so that inventory planning can be done. Along with that, sales prediction helps to increase/decrease store staff based on the rush (More sales can mean more customers are coming to the stores). Also, it is always a good idea to do sales and revenue forecasting to better understand the company's cash-flows and overall growth.
